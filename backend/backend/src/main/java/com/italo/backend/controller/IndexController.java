@@ -1,4 +1,4 @@
-package com.italo.backend.controllers;
+package com.italo.backend.controller;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;

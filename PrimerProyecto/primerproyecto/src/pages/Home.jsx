@@ -25,7 +25,6 @@ function Home() {
                     <li>etc...</li>
                 </ul>
             </div>
-            <Link to="/login">Ir al Login</Link>
         </div>
     )
 }

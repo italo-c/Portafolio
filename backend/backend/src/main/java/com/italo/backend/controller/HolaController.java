@@ -1,4 +1,4 @@
-package com.italo.backend.controllers;
+package com.italo.backend.controller;
 
 import org.springframework.web.bind.annotation.*;
 
@@ -7,7 +7,10 @@ import org.springframework.web.bind.annotation.*;
 public class HolaController {
 
     @GetMapping("/hola")
-    public String hola() {
-        return "Hola desde Spring Boot 🚀";
+    public String hola(@RequestParam String nombre) {
+
+        return "Hola, " + nombre + " desde el backend!";
+
+
     }
 }

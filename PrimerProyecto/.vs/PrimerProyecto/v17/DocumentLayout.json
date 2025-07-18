@@ -3,20 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Usuario\\Documents\\yo\\programming\\React\\PrimerProyecto\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A594C98E-683E-DADB-9EDF-B9F4E337B19C}|PrimerProyecto\\primerproyecto.esproj|c:\\users\\usuario\\documents\\yo\\programming\\react\\primerproyecto\\primerproyecto\\src\\pages\\home.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A594C98E-683E-DADB-9EDF-B9F4E337B19C}|PrimerProyecto\\primerproyecto.esproj|solutionrelative:primerproyecto\\src\\pages\\home.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{A594C98E-683E-DADB-9EDF-B9F4E337B19C}|PrimerProyecto\\primerproyecto.esproj|c:\\users\\usuario\\documents\\yo\\programming\\react\\primerproyecto\\primerproyecto\\src\\pages\\tests.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A594C98E-683E-DADB-9EDF-B9F4E337B19C}|PrimerProyecto\\primerproyecto.esproj|solutionrelative:primerproyecto\\src\\pages\\tests.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A594C98E-683E-DADB-9EDF-B9F4E337B19C}|PrimerProyecto\\primerproyecto.esproj|c:\\users\\usuario\\documents\\yo\\programming\\react\\primerproyecto\\primerproyecto\\src\\pages\\login.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A594C98E-683E-DADB-9EDF-B9F4E337B19C}|PrimerProyecto\\primerproyecto.esproj|solutionrelative:primerproyecto\\src\\pages\\login.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{A594C98E-683E-DADB-9EDF-B9F4E337B19C}|PrimerProyecto\\primerproyecto.esproj|c:\\users\\usuario\\documents\\yo\\programming\\react\\primerproyecto\\primerproyecto\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A594C98E-683E-DADB-9EDF-B9F4E337B19C}|PrimerProyecto\\primerproyecto.esproj|solutionrelative:primerproyecto\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A594C98E-683E-DADB-9EDF-B9F4E337B19C}|PrimerProyecto\\primerproyecto.esproj|c:\\users\\usuario\\documents\\yo\\programming\\react\\primerproyecto\\primerproyecto\\src\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{A594C98E-683E-DADB-9EDF-B9F4E337B19C}|PrimerProyecto\\primerproyecto.esproj|solutionrelative:primerproyecto\\src\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{A594C98E-683E-DADB-9EDF-B9F4E337B19C}|PrimerProyecto\\primerproyecto.esproj|c:\\users\\usuario\\documents\\yo\\programming\\react\\primerproyecto\\primerproyecto\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A594C98E-683E-DADB-9EDF-B9F4E337B19C}|PrimerProyecto\\primerproyecto.esproj|solutionrelative:primerproyecto\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A594C98E-683E-DADB-9EDF-B9F4E337B19C}|PrimerProyecto\\primerproyecto.esproj|c:\\users\\usuario\\documents\\yo\\programming\\react\\primerproyecto\\primerproyecto\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A594C98E-683E-DADB-9EDF-B9F4E337B19C}|PrimerProyecto\\primerproyecto.esproj|solutionrelative:primerproyecto\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A594C98E-683E-DADB-9EDF-B9F4E337B19C}|PrimerProyecto\\primerproyecto.esproj|c:\\users\\usuario\\documents\\yo\\programming\\react\\primerproyecto\\primerproyecto\\src\\components\\header.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{A594C98E-683E-DADB-9EDF-B9F4E337B19C}|PrimerProyecto\\primerproyecto.esproj|solutionrelative:primerproyecto\\src\\components\\header.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A594C98E-683E-DADB-9EDF-B9F4E337B19C}|PrimerProyecto\\primerproyecto.esproj|c:\\users\\usuario\\documents\\yo\\programming\\react\\primerproyecto\\primerproyecto\\src\\pages\\home.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A594C98E-683E-DADB-9EDF-B9F4E337B19C}|PrimerProyecto\\primerproyecto.esproj|solutionrelative:primerproyecto\\src\\pages\\home.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,56 +34,82 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "App.css",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\yo\\programming\\React\\PrimerProyecto\\primerproyecto\\src\\App.css",
-              "RelativeDocumentMoniker": "primerproyecto\\src\\App.css",
-              "ToolTip": "C:\\Users\\Usuario\\Documents\\yo\\programming\\React\\PrimerProyecto\\primerproyecto\\src\\App.css",
-              "RelativeToolTip": "primerproyecto\\src\\App.css",
-              "ViewState": "AgIAAEsAAAAAAAAAAAAUwFkAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-07-18T16:23:47.688Z",
+              "DocumentIndex": 1,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\yo\\programming\\React\\PrimerProyecto\\primerproyecto\\index.html",
+              "RelativeDocumentMoniker": "primerproyecto\\index.html",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\yo\\programming\\React\\PrimerProyecto\\primerproyecto\\index.html",
+              "RelativeToolTip": "primerproyecto\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-07-18T19:36:04.477Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Login.jsx",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\yo\\programming\\React\\PrimerProyecto\\primerproyecto\\src\\pages\\Login.jsx",
-              "RelativeDocumentMoniker": "primerproyecto\\src\\pages\\Login.jsx",
-              "ToolTip": "C:\\Users\\Usuario\\Documents\\yo\\programming\\React\\PrimerProyecto\\primerproyecto\\src\\pages\\Login.jsx",
-              "RelativeToolTip": "primerproyecto\\src\\pages\\Login.jsx",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAArAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "App.jsx",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\yo\\programming\\React\\PrimerProyecto\\primerproyecto\\src\\App.jsx",
+              "RelativeDocumentMoniker": "primerproyecto\\src\\App.jsx",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\yo\\programming\\React\\PrimerProyecto\\primerproyecto\\src\\App.jsx",
+              "RelativeToolTip": "primerproyecto\\src\\App.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2025-07-18T16:09:22.649Z",
+              "WhenOpened": "2025-07-18T19:35:18.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "main.jsx",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\yo\\programming\\React\\PrimerProyecto\\primerproyecto\\src\\main.jsx",
+              "RelativeDocumentMoniker": "primerproyecto\\src\\main.jsx",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\yo\\programming\\React\\PrimerProyecto\\primerproyecto\\src\\main.jsx",
+              "RelativeToolTip": "primerproyecto\\src\\main.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-07-18T19:35:15.877Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Tests.jsx",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\yo\\programming\\React\\PrimerProyecto\\primerproyecto\\src\\pages\\Tests.jsx",
+              "RelativeDocumentMoniker": "primerproyecto\\src\\pages\\Tests.jsx",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\yo\\programming\\React\\PrimerProyecto\\primerproyecto\\src\\pages\\Tests.jsx",
+              "RelativeToolTip": "primerproyecto\\src\\pages\\Tests.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-07-18T19:33:26.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Home.jsx",
               "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\yo\\programming\\React\\PrimerProyecto\\primerproyecto\\src\\pages\\Home.jsx",
               "RelativeDocumentMoniker": "primerproyecto\\src\\pages\\Home.jsx",
               "ToolTip": "C:\\Users\\Usuario\\Documents\\yo\\programming\\React\\PrimerProyecto\\primerproyecto\\src\\pages\\Home.jsx",
               "RelativeToolTip": "primerproyecto\\src\\pages\\Home.jsx",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
               "WhenOpened": "2025-07-18T16:09:03.791Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Header.jsx",
               "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\yo\\programming\\React\\PrimerProyecto\\primerproyecto\\src\\components\\Header.jsx",
               "RelativeDocumentMoniker": "primerproyecto\\src\\components\\Header.jsx",
               "ToolTip": "C:\\Users\\Usuario\\Documents\\yo\\programming\\React\\PrimerProyecto\\primerproyecto\\src\\components\\Header.jsx",
               "RelativeToolTip": "primerproyecto\\src\\components\\Header.jsx",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
               "WhenOpened": "2025-07-18T15:03:33.582Z",
               "EditorCaption": ""

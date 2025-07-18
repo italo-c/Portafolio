@@ -12,7 +12,7 @@ html, body, #root {
   margin: 0;
   height: 3em;
   max-width: 100%;       /* Permite que el logo use el ancho disponible */
-  min-width: 120px;      /* Evita que el logo sea demasiado peque�o */
+  min-width: 120px;      /* Evita que el logo sea demasiado peque�o */
   transition: filter 300ms;
 }
 .logo:hover {
@@ -184,3 +184,24 @@ html, body, #root {
   }
 }
 
+/* App.css o styles/global.css */
+
+.btn-link {
+  display: inline-block;
+  padding: 0.5rem 1rem;
+  background-color: #3b82f6; /* azul fuerte */
+  color: white;
+  text-decoration: none;
+  border: none;
+  border-radius: 8px;
+  font-weight: 600;
+  transition: background-color 0.2s ease;
+  cursor: pointer;
+}
+
+.btn-link:hover {
+  background-color: #2563eb; /* azul más claro al pasar */
+}
+.btn-link:focus {
+  background-color: #2563eb; /* azul más claro al pasar */
+}
